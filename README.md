@@ -125,6 +125,20 @@ Hot and Spicy | May 2024 – August 2024
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-green)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Learning-orange)
 
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+## 📈 Activity Graph
+
+[![Khair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khairbakshnoor-pixel)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## 📊 Detailed Stats Card
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khairbakshnoor-pixel&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairbakshnoor-pixel&layout=compact"/>
+## 🌐 Social Badges
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/khairbakshnoor-pixel)
 ## 📫 Connect With Me
 
 📧 Email: [bscs2512113@szabist.pk](mailto:bscs2512113@szabist.pk)
