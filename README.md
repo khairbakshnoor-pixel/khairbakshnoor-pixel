@@ -108,8 +108,22 @@ Hot and Spicy | May 2024 – August 2024
 * Data Analysis with Python (SMIT)
 * Python Programming (SMIT)
 * Web Development (Bano Qabil)
+* 
+## 🔥 GitHub Streak
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=khairbakshnoor-pixel)
+
+## 📊 GitHub Stats
+![Khair's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairbakshnoor-pixel&show_icons=true)  
+
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairbakshnoor-pixel&layout=compact)
+
+## Skill Badges
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-green)
+![Data Science](https://img.shields.io/badge/Data%20Science-Learning-orange)
 
 ## 📫 Connect With Me
 
