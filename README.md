@@ -1,16 +1,120 @@
-## Hi there 👋
+# Hi, I'm Khair Bakhsh Noor Dad 👋
 
-<!--
-**khairbakshnoor-pixel/khairbakshnoor-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Enthusiast | BS Computer Science Student
 
-Here are some ideas to get you started:
+🎓 BS Computer Science Student at SZABIST Karachi (CGPA: 3.66)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Analytics.
+
+💡 I enjoy building machine learning models, analyzing data, and solving real-world problems through AI-driven solutions.
+
+---
+
+## 🚀 About Me
+
+* 🎓 BSCS Student at SZABIST Karachi
+* 📊 Interested in Data Science & Machine Learning
+* 🐍 Strong foundation in Python and Data Analysis
+* 📈 Experience in Data Visualization and Statistical Analysis
+* 🌱 Currently learning Advanced Machine Learning and AI Applications
+* 🎯 Seeking AI/ML Internship Opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Python
+* SQL
+
+### Machine Learning
+
+* Linear Regression
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Feature Engineering
+* Model Evaluation
+
+### Data Analysis
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Visualization
+
+### Libraries & Frameworks
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+### Tools
+
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Git & GitHub
+* Microsoft Excel
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 Student Performance Prediction
+
+Machine learning project for predicting academic performance using student datasets.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+
+### ❤️ Heart Disease Prediction
+
+Classification model to predict heart disease risk using healthcare data.
+
+**Tech Stack:** Python, Pandas, Scikit-learn
+
+### 🏠 Real Estate Price Analysis
+
+Housing market analysis and property price prediction using regression techniques.
+
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+
+### 📊 Sales Data Analysis Dashboard
+
+Business analytics dashboard for sales trend analysis and decision support.
+
+**Tech Stack:** Python, Excel, Pandas
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern
+
+Hot and Spicy | May 2024 – August 2024
+
+* Sales Data Analysis
+* Dashboard Creation
+* Data Cleaning & Validation
+* Business Reporting
+
+---
+
+## 🏆 Certifications
+
+* Artificial Intelligence & Data Science (SMIT)
+* Data Analysis with Python (SMIT)
+* Python Programming (SMIT)
+* Web Development (Bano Qabil)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [bscs2512113@szabist.pk](mailto:bscs2512113@szabist.pk)
+
+💼 LinkedIn: linkedin.com/in/khairbakshnoordad
+
+💻 GitHub: github.com/khairbakshnoor-pixel
