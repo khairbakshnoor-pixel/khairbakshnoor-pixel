@@ -27,6 +27,13 @@
 
 * Python
 * SQL
+* JAVA
+* C
+* C++
+* HTML
+* CSS
+* JAVASCRIPT
+  
 
 ### Machine Learning
 
