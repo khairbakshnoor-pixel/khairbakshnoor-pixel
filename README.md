@@ -121,11 +121,11 @@ Hot and Spicy | May 2024 – August 2024
 ![GitHub Streak](https://streak-stats.demolab.com?user=khairbakshnoor-pixel)
 
 ## 📊 GitHub Stats
-![Khair's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairbakshnoor-pixel&show_icons=true)  
+![Khair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khairbakshnoor-pixel&show_icons=true&theme=tokyonight&count_private=true) 
 
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairbakshnoor-pixel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairbakshnoor-pixel&layout=compact&theme=tokyonight)
 
 ## Skill Badges
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
