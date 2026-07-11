@@ -1,142 +1,193 @@
-# Hi, I'm Khair Bakhsh Noor Dad 👋
+<h1 align="center">Hi 👋, I'm Khair Bakhsh Noor Dad</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Data Analyst | BSCS Student</h3>
 
-### AI & Machine Learning Enthusiast | BS Computer Science Student
-
-🎓 BS Computer Science Student at SZABIST Karachi (CGPA: 3.66)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Analytics.
-
-💡 I enjoy building machine learning models, analyzing data, and solving real-world problems through AI-driven solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khairbakshnoor-pixel&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BSCS Student at SZABIST Karachi
-* 📊 Interested in Data Science & Machine Learning
-* 🐍 Strong foundation in Python and Data Analysis
-* 📈 Experience in Data Visualization and Statistical Analysis
-* 🌱 Currently learning Advanced Machine Learning and AI Applications
-* 🎯 Seeking AI/ML Internship Opportunities
+🎓 BS Computer Science Student at **SZABIST Karachi**
+
+📊 CGPA: **3.66 / 4.00**
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science, Analytics, and Software Development**
+
+💻 I enjoy building Machine Learning models, analyzing datasets, solving real-world problems, and continuously learning new technologies.
+
+🌱 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Advanced Machine Learning
+- Java Object-Oriented Programming
+
+🎯 Looking for AI/ML Internship Opportunities
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ### Programming Languages
 
-* Python
-* SQL
-* JAVA
-* C
-* C++
-* HTML
-* CSS
-* JAVASCRIPT
-  
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql" />
+</p>
 
-### Machine Learning
+### Machine Learning & Data Science
 
-* Linear Regression
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Feature Engineering
-* Model Evaluation
-
-### Data Analysis
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Visualization
-
-### Libraries & Frameworks
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Feature Engineering
+- Data Cleaning
+- Data Visualization
+- Model Evaluation
+- EDA
 
 ### Tools
 
-* Jupyter Notebook
-* Google Colab
-* VS Code
-* Git & GitHub
-* Microsoft Excel
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+Also Familiar With
+
+- Jupyter Notebook
+- Google Colab
+- Microsoft Excel
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🎓 Student Performance Prediction
+## 🎓 Student Performance Prediction
 
-Machine learning project for predicting academic performance using student datasets.
+Predicting student academic performance using Machine Learning algorithms.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+**Tech Stack**
 
-### ❤️ Heart Disease Prediction
-
-Classification model to predict heart disease risk using healthcare data.
-
-**Tech Stack:** Python, Pandas, Scikit-learn
-
-### 🏠 Real Estate Price Analysis
-
-Housing market analysis and property price prediction using regression techniques.
-
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-
-### 📊 Sales Data Analysis Dashboard
-
-Business analytics dashboard for sales trend analysis and decision support.
-
-**Tech Stack:** Python, Excel, Pandas
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
 
 ---
 
-## 💼 Experience
+## ❤️ Heart Disease Prediction
+
+Classification model to predict heart disease risk using healthcare datasets.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- Scikit-Learn
+
+---
+
+## 🏠 House Price Prediction
+
+Regression model for estimating real estate prices.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## 📊 Sales Data Analysis Dashboard
+
+Business analytics dashboard with visualizations and insights.
+
+**Tech Stack**
+
+- Python
+- Excel
+- Pandas
+
+---
+
+# 💼 Experience
 
 ### Data Analyst Intern
 
-Hot and Spicy | May 2024 – August 2024
+**Hot & Spicy**
 
-* Sales Data Analysis
-* Dashboard Creation
-* Data Cleaning & Validation
-* Business Reporting
+**May 2024 – August 2024**
+
+Responsibilities
+
+- Sales Data Analysis
+- Dashboard Development
+- Business Reporting
+- Data Cleaning
+- Data Validation
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-* Artificial Intelligence & Data Science (SMIT)
-* Data Analysis with Python (SMIT)
-* Python Programming (SMIT)
-* Web Development (Bano Qabil)
-* 
-## 🔥 GitHub Streak
+- Artificial Intelligence & Data Science (SMIT)
+- Data Analysis with Python (SMIT)
+- Python Programming (SMIT)
+- Web Development (Bano Qabil)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khairbakshnoor-pixel)
+---
 
-## 📊 GitHub Stats
-![Khair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khairbakshnoor-pixel&show_icons=true&theme=tokyonight&count_private=true) 
+# 📈 GitHub Statistics
 
+<p align="center">
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairbakshnoor-pixel&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=khairbakshnoor-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-## Skill Badges
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-green)
-![Data Science](https://img.shields.io/badge/Data%20Science-Learning-orange)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairbakshnoor-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
 
-## 📫 Connect With Me
+---
 
-📧 Email: [bscs2512113@szabist.pk](mailto:bscs2512113@szabist.pk)
+# 🔥 GitHub Streak
 
-💼 LinkedIn: linkedin.com/in/khairbakshnoordad
+<p align="center">
 
-💻 GitHub: github.com/khairbakshnoor-pixel
+<img src="https://streak-stats.demolab.com?user=khairbakshnoor-pixel&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khairbakshnoor-pixel&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+- GitHub: https://github.com/khairbakshnoor-pixel
+- LinkedIn: https://linkedin.com/in/khairbakshnoordad
+
+---
+
+# 📫 Contact Me
+
+📧 **bscs2512113@szabist.pk**
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
