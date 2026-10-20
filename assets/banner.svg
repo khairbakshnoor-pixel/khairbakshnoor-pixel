@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
+  <title id="title">Khair Bakhsh Noor Dad — AI Automation Engineer</title>
+  <desc id="description">A dark, premium banner with gold and cyan details. Building intelligent agents and connected workflows.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F19"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#20D9FF"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#F8FAFC" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#20D9FF" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#20D9FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1035" cy="155" rx="245" ry="210" fill="url(#glow)"/>
+  <path d="M795 258 950 103h184M872 285l165-165h97M1030 286l131-131h39" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="950" cy="103" r="5" fill="#D4AF37"/>
+  <circle cx="1037" cy="120" r="5" fill="#20D9FF"/>
+  <circle cx="1161" cy="155" r="5" fill="#D4AF37"/>
+  <rect x="72" y="62" width="52" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="111" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">AI AUTOMATION  /  VOICE  /  DATA</text>
+  <text x="70" y="181" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing=".5">KHAIR BAKHSH</text>
+  <text x="72" y="222" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="2">NOOR DAD</text>
+  <text x="72" y="265" fill="#C7D2E0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building intelligent agents, automations, and real-world AI solutions.</text>
+  <text x="72" y="300" fill="#20D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">KARACHI, PAKISTAN  ·  BUILDING GLOBALLY</text>
+</svg>

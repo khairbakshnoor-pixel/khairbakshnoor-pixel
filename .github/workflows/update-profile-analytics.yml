@@ -1,0 +1,59 @@
+name: Update profile analytics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "assets/banner.svg"
+      - "scripts/update_profile_stats.py"
+      - ".github/workflows/update-profile-analytics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Cache public API responses
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/profile-api-cache
+          key: ${{ runner.os }}-profile-api-v1-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-profile-api-v1-
+
+      - name: Generate repository and language cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_API_CACHE: ${{ runner.temp }}/profile-api-cache
+        run: python scripts/update_profile_stats.py
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/languages.svg
+          if git diff --cached --quiet; then
+            echo "Analytics cards are already up to date."
+            exit 0
+          fi
+          git commit -m "Update profile analytics"
+          git push
