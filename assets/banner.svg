@@ -1,34 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Khair Bakhsh Noor Dad — AI Automation Engineer</title>
-  <desc id="description">A dark, premium banner with gold and cyan details. Building intelligent agents and connected workflows.</desc>
+  <desc id="description">A premium dark portfolio banner with a connected AI workflow illustration: customer conversation, intelligent agent, automation, and business systems.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B0F19"/>
-      <stop offset="1" stop-color="#111827"/>
+      <stop offset=".62" stop-color="#101827"/>
+      <stop offset="1" stop-color="#0B1520"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#D4AF37"/>
       <stop offset="1" stop-color="#20D9FF"/>
     </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#F8FAFC" stroke-opacity=".045" stroke-width="1"/>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172333" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#0D1520" stop-opacity=".98"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#F8FAFC" stroke-opacity=".035" stroke-width="1"/>
     </pattern>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#20D9FF" stop-opacity=".18"/>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#20D9FF" stop-opacity=".16"/>
       <stop offset="1" stop-color="#20D9FF" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="1200" height="330" rx="24" fill="url(#background)"/>
-  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
-  <ellipse cx="1035" cy="155" rx="245" ry="210" fill="url(#glow)"/>
-  <path d="M795 258 950 103h184M872 285l165-165h97M1030 286l131-131h39" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
-  <circle cx="950" cy="103" r="5" fill="#D4AF37"/>
-  <circle cx="1037" cy="120" r="5" fill="#20D9FF"/>
-  <circle cx="1161" cy="155" r="5" fill="#D4AF37"/>
-  <rect x="72" y="62" width="52" height="4" rx="2" fill="url(#accent)"/>
-  <text x="72" y="111" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">AI AUTOMATION  /  VOICE  /  DATA</text>
-  <text x="70" y="181" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing=".5">KHAIR BAKHSH</text>
-  <text x="72" y="222" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="2">NOOR DAD</text>
-  <text x="72" y="265" fill="#C7D2E0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building intelligent agents, automations, and real-world AI solutions.</text>
-  <text x="72" y="300" fill="#20D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">KARACHI, PAKISTAN  ·  BUILDING GLOBALLY</text>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="180" rx="280" ry="220" fill="url(#glow)"/>
+  <rect x="70" y="55" width="4" height="244" rx="2" fill="url(#accent)"/>
+  <text x="98" y="88" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.5">AI AUTOMATION  /  VOICE AI  /  DATA</text>
+  <text x="96" y="157" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing=".4">KHAIR BAKHSH</text>
+  <text x="98" y="202" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="500" letter-spacing="3">NOOR DAD</text>
+  <rect x="98" y="222" width="48" height="2" rx="1" fill="#D4AF37"/>
+  <text x="98" y="253" fill="#DCE5EF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">AI Automation Engineer</text>
+  <text x="98" y="280" fill="#AAB6C5" font-family="Segoe UI, Arial, sans-serif" font-size="14">Building intelligent agents and useful business workflows.</text>
+  <text x="98" y="322" fill="#20D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">KARACHI, PAKISTAN  ·  BUILDING GLOBALLY</text>
+  <rect x="695" y="52" width="443" height="256" rx="18" fill="url(#panel)" stroke="#314155"/>
+  <text x="722" y="84" fill="#AAB6C5" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">FROM CONVERSATION TO ACTION</text>
+  <path d="M779 158H836m8 0 6-5m-6 5 6 5M881 158H938m8 0 6-5m-6 5 6 5M983 158H1040m8 0 6-5m-6 5 6 5" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="734" y="130" width="48" height="56" rx="13" fill="#192535" stroke="#D4AF37" stroke-width="1.5"/>
+  <rect x="836" y="130" width="48" height="56" rx="13" fill="#192535" stroke="#B49AFF" stroke-width="1.5"/>
+  <rect x="938" y="130" width="48" height="56" rx="13" fill="#192535" stroke="#20D9FF" stroke-width="1.5"/>
+  <rect x="1040" y="130" width="56" height="56" rx="13" fill="#192535" stroke="#D4AF37" stroke-width="1.5"/>
+  <path d="M746 153c0-3 2-5 5-5h2c3 0 5 2 5 5v4c0 3-2 5-5 5h-2l-4 3v-4c-1-1-1-2-1-4v-4ZM851 148h18v18h-18zM854 152h10m-10 5h7m-7 5h5M951 149h22v17h-22zM955 145v4m14-4v4m-14 7h4m3 0h4m-11 4h4m3 0h4M1055 148h10l7 7v12h-17zM1065 148v7h7" fill="none" stroke="#F8FAFC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="758" y="207" text-anchor="middle" fill="#DCE5EF" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="600">VOICE + CHAT</text>
+  <text x="860" y="207" text-anchor="middle" fill="#DCE5EF" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="600">AI AGENT</text>
+  <text x="962" y="207" text-anchor="middle" fill="#DCE5EF" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="600">WORKFLOW</text>
+  <text x="1068" y="207" text-anchor="middle" fill="#DCE5EF" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="600">CRM + TOOLS</text>
+  <rect x="722" y="235" width="389" height="42" rx="10" fill="#0B0F19" stroke="#263244"/>
+  <circle cx="743" cy="256" r="4" fill="#20D9FF"/>
+  <text x="757" y="260" fill="#AAB6C5" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1">INTELLIGENCE  →  INTEGRATION  →  ACTION</text>
+  <circle cx="1120" cy="72" r="2" fill="#D4AF37"/>
+  <circle cx="1140" cy="72" r="2" fill="#20D9FF"/>
+  <circle cx="1160" cy="72" r="2" fill="#8B5CF6"/>
 </svg>
